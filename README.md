@@ -3,6 +3,9 @@ Backend code for a web-based insurance system using Java and Spring
 
 live demo hosting on AWS: http://msi-final-jjy.com.s3-website.us-east-2.amazonaws.com/login
 
+## Frontend code
+Frontend code is available here: [Github repo](https://github.com/kdj842969/insurance-web-app-frontend)
+
 ## Copyright
 * This is an open source demo project from [Jingjing Yang](https://www.linkedin.com/in/jingjingyang801/)
 * Any question, please contact [kdj842969@gmail.com](kdj842969@gmail.com)
